@@ -1,0 +1,2 @@
+[20-Jul-2022 21:47:26 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/dianef/public_html/dwf-wp/wp-content/themes/DFranklin-theme/index.php on line 16
+[22-Jul-2022 23:04:27 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/dianef/public_html/dwf-wp/wp-content/themes/DFranklin-theme/index.php on line 16

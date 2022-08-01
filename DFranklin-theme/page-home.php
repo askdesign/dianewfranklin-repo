@@ -20,7 +20,9 @@ get_header(); ?>
 		<div id="container">
 			<div id="content" role="main">
 
-			<div id="homeslider"><?php if (function_exists('nivoslider4wp_show')) { nivoslider4wp_show(); } ?></div>
+			<!-- OLD CODE NO LONGER USED <div id="homeslider"><?php if (function_exists('nivoslider4wp_show')) { nivoslider4wp_show(); } ?></div> -->
+				
+			<?php echo do_shortcode('[metaslider id="1257"]'); ?>
 
 			</div><!-- #content -->
 		</div><!-- #container -->
